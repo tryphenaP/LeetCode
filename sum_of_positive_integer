@@ -1,0 +1,7 @@
+positive_sum = 0
+
+for n in nums:
+    if n >= 0:
+        positive_sum += n
+
+print(positive_sum)

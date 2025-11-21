@@ -1,0 +1,7 @@
+noOfEvenNos = 0
+
+for n in nums:
+    if n % 2 == 0:
+        noOfEvenNos = noOfEvenNos + 1
+
+print(noOfEvenNos)
